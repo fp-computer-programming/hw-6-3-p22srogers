@@ -7,6 +7,6 @@ word3.sort()
 word4.sort()
 
 if word3 == word4:
-    print("This word is an anagram.")
+    print("These words are anagrams.")
 else:
-    print("This word is not an anagram.")
+    print("These words are not anagrams.")
